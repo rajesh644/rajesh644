@@ -44,11 +44,6 @@ Programmer | Learner
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
-### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rajesh644.visitor-badge&left_color=blue&right_color=yellow)
-<br />
-
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=rajesh644&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/rajesh644/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
