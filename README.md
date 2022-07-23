@@ -1,14 +1,8 @@
-### Hi there 👋
 
-<!--
-**rajesh644/rajesh644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Singh Rajesh Janak</h1>
+<h1 align="center">Hi <img src="https://github.com/rajesh644/rajesh644/blob/main/Wave.gif" height="55px" width="55px">, I'm Singh Rajesh Janak</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Programmer | Learner
 
 ?></h3>
 
