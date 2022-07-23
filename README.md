@@ -53,6 +53,6 @@ Programmer | Learner
 
 [facebook]:https://www.facebook.com/profile.php?id=100043132313283
 [instagram]:https://www.instagram.com/_r_a_j_e_s_h_111/
-[telegram]:https://web.telegram.org/z/
+[telegram]:
 
 
