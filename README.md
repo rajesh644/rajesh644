@@ -18,9 +18,9 @@ Programmer | Learner
 ### Connect with me:
 
 
-[<img align="left" alt="Singh Rajesh Janak | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" <a>href="https://www.facebook.com/profile.php?id=100043132313283"</a>] />
-<img align="left" alt="Singh Rajesh Janak | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />
-<img align="left" alt="Singh Rajesh Janak| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+[<img align="left" alt="Singh Rajesh Janak | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
+[<img align="left" alt="Singh Rajesh Janak | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />]
+[<img align="left" alt="Singh Rajesh Janak| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 <br />
 
