@@ -51,9 +51,8 @@ Programmer | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh644&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
-[website]: https://TechHelpBD.com
 [facebook]:https://www.facebook.com/profile.php?id=100043132313283
-[instagram]: https://instagram.com/mahbubdev/
-[telegram]: https://t.me/TechHelpBangladesh
+[instagram]:https://www.instagram.com/_r_a_j_e_s_h_111/
+[telegram]:https://web.telegram.org/z/
 
 
