@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 Programmer | Learner
 
-<?></h3>
+?></h3>
 
 - 🌱 I’m currently learning **Fullstack Devlopment**
 
