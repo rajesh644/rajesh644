@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Rajesh Singh</h1>
+<h1 align="center">Hi <img src="https://github.com/rajesh644/rajesh644/blob/main/Wave.gif" height="55px" width="55px">, I'm Rajesh Singh</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Learner
 
-?></h3>
+<h3><?></h3>
 
 - 🌱 I’m currently learning **Fullstack Devlopment**
 
